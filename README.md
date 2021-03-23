@@ -2,7 +2,7 @@
 
 
 ## **_Description of the project_**
-Git it Done is github repository search tool that allows its user to look up repositories based on Github user or by language by leveraging Github's API. Using a quick search, developers can identify which user repos have (x)issues and contribute to their repo of choice immediately. Currently language buttons are limited to JS, HTML, CSS but future enhancements will include functionality to allow the user to choose their language of preference.
+Git it Done is a github repository search tool that allows its user to look up repositories based on Github user or by language by leveraging Github's API. Using a quick search, developers can identify which user repos have (x)issues and contribute to their repo of choice immediately. Currently language buttons are limited to JS, HTML, CSS but future enhancements will include functionality to allow the user to choose their language of preference.
 
 ## **Tech Stack**
 Project is created using:
