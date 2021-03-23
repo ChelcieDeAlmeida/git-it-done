@@ -36,8 +36,6 @@ var formSubmitHandler = function (event) {
     } else {
         alert("Please enter a GitHub username");
     }
-
-    console.log(event);
 };
 
 userFormEl.addEventListener("submit", formSubmitHandler);
